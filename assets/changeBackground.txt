@@ -1,0 +1,21 @@
+from ctypes import windll
+from time import sleep
+from os import getenv
+
+extension = '.jpeg' # doesn't work with some extentions
+print(f'filename extention is {extension}')
+
+onedrive = getenv("onedrive")
+
+imagePath = f'{onedrive}\\Other\\Documents\\BGWallpapers\\wallpaper.jpeg'
+
+def changeBG(imagePath):
+    windll.user32.SystemParametersInfoW(20, 0, imagePath , 0)
+    return
+
+for i in range(30):
+    try:
+        changeBG(imagePath)
+        sleep(3)
+    except:
+        pass
