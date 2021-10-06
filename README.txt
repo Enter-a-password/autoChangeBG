@@ -1,4 +1,4 @@
-To only be used in the Westada school
+To only be used in the Westada school district
 
 Extra info:
 	Python MUST be installed to launch. To install on a district computer, lanuch company portal and install
