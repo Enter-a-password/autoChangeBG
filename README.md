@@ -1,9 +1,9 @@
-#Python MUST be installed to launch. 
+# Python MUST be installed to launch. 
 To install on a district computer:
 1. Lanuch company portal and install Python. 
 2. Launch the installer with the file "C:\Program Files (x86)\Python38-32\python.exe"
 
-#Other Notes
+# Other Notes
 - The School district changes the wallpaper setting to 'tile', so you will have to convert the image
 into the same resolution as the display (unable to automate change)
 
