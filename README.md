@@ -2,6 +2,7 @@
 To install on a district computer:
 1. Lanuch company portal and install Python. 
 2. Launch the installer with the file "C:\Program Files (x86)\Python38-32\python.exe"
+3. The folder will automatically be created and an example file will appear. Replace the example wallpaper with the exact name 'wallpaper.jpeg' to sucessfully replace it
 
 # Other Notes
 - The School district changes the wallpaper setting to 'tile', so you will have to convert the image
