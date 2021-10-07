@@ -40,15 +40,6 @@ try:
     # Open folder
     Popen(f'explorer /select, "{onedrive}\\Other\\Documents\\BGWallpapers\\wallpaper.jpeg"')
 
-    # Copy shortcut to desktop
-    with open(f'assets/BGWallpapers.lnk', 'br') as f:
-        shortcut = f.read()
-        f.close()
-    with open(f'{onedrive}\\Other\\Desktop\\BGWallpapers.lnk', 'bw') as f:
-        f.write(shortcut)
-        f.close()
-
-
     user32 = windll.user32
     screensize = user32.GetSystemMetrics(0), user32.GetSystemMetrics(1)
     print(f"\n\nMake sure to have an image that is the same resolution as your display\nYour display size: {screensize}")
