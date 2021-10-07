@@ -7,5 +7,5 @@
 - The School district changes the wallpaper setting to 'tile', so you will have to convert the image
 into the same resolution as the display (unable to automate change)
 
-- This is not to be used to harm the School district or others. The purpose of this is to *change 
-your wallpaper.* That's it.
+- This is not to be used to harm the School district or others. The purpose of this is to change 
+your wallpaper. That's it.
