@@ -1,3 +1,6 @@
+# Video on how to install/uninstall it
+https://www.youtube.com/watch?v=2ZCHD2AuqlA
+
 # Python MUST be installed to launch. 
 To install on a district computer:
 1. Lanuch company portal and install Python. 
